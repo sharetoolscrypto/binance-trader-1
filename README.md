@@ -128,15 +128,23 @@ You should see an output like shown in the picture below:
 Please give feedback and report your experience :)
 
 
-# Donations
+## Binance Account - Get 10% discount on fees!
 
-If this bot made you money in any way, I appreciate a donation:
+Don't you have a **Binance** account yet?  
+Register using the **referal link** below and get a **10% discount on fees** for **all** your trades!
 
-- $BTC: 13sTnjH2CMBVzxiQ41PUenBnKFpjx9emHT
-- $XRP: rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh (tag: 103358538)
-- $LTC: Le7DSYFtvSHRhX5ndxj3jo1oZYEQCzeYkg
-- $ETH: 0x3a3a32de226a34f8ab5c1eba66a81fb00b03d187
-- $BCH: lol no
-- ^ lol, love this joke :-)
+[**https://accounts.binance.com/en/register?ref=IMNOXVUY**](https://accounts.binance.com/en/register?ref=IMNOXVUY)  
+
+
+## Enjoy - Donate - Buy me a beer!  =]
+I really hope you enjoyed and loved it as much as I love to use it everyday.
+
+If your love is strong enough, feel free to share it with me!  =D  
+I will much appreciate any contribution and support to keep working on it.  
+I have several ideas for new features, so much more could come!
+
+You can send any token through the **Binance Smart Chain** (BSC/BEP20) to the address:  
+`0x51CeC0bB36BacC9765e1A5fa67b84810DeF607Ae`
+---
 
 This bot is offered free of charge with no guarantees whatsoever.
